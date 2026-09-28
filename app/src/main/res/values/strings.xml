@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Campus Notes</string>
+    <string name="add_unit">Add Unit</string>
+    <string name="add_note">Add Note</string>
+    <string name="search">Search</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="unit_name">Unit Name</string>
+    <string name="description">Description</string>
+    <string name="note_title">Note Title</string>
+    <string name="note_content">Note Content</string>
+    <string name="year">Year</string>
+    <string name="no_units">No units yet. Add one to get started!</string>
+    <string name="no_notes">No notes for this unit</string>
+</resources>
